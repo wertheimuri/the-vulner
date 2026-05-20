@@ -51,10 +51,24 @@ Designed with operational security (OpSec) at its core, the framework orchestrat
 6. Reporting          → Aggregate logs → vuln_master_report.txt → ZIP archive
 ```
 
+## Screenshots
+
+```
+### Pre-Flight Validation & OpSec Initialization
+![Pre-flight](01_welcome_all_tools_installed_anonymity_verified.png)
+
+### Target Reconnaissance & Scan Configuration
+![Recon](02_targets_wordlists_scan_mode_choices.png)
+
+### Credential Audit — Weak Passwords Found
+![Credentials](figure4-week_creds.png)
+
+### Forensic Report Packaging
+![Report](03_complete_zipped.png)
 ---
 
-## Usage
-
+**## Usage
+**
 ```bash
 # Unpack the project
 unzip vulner_project.zip
