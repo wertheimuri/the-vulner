@@ -127,8 +127,9 @@ This framework is developed for **educational purposes** and **authorised penetr
 
 ---
 
-## Author
+## Credits & Acknowledgements
 
-**Uri Wertheim** — Cybersecurity Student | Sound Engineer  
-John Bryce Training, Tel Aviv | Cyber Magen Graduate  
+**Institution:** John Bryce Training, Tel Aviv — Cyber Magen Program  
+**Platform:** ThinkCyber — Learning environment and lab infrastructure  
+**Mentor:** David Schiffman — Founder of ThinkCyber | RTX Red Team eXpert Program 
 [GitHub](https://github.com/wertheimuri) · [LinkedIn](https://www.linkedin.com/in/uri-wertheim-48734027/)
